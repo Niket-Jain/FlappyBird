@@ -14,8 +14,13 @@ You can contribute to this repo by:
 
 ### Preview 
 
-![Screenshot1](Screenshots/Screenshot_1602503456.png).
-![Screenshot1](Screenshots/Screenshot_1602502774.png).
+<p align="center">
+  <img src="Screenshots/Screenshot_1602503456.png" width="40%" >
+</p>
+
+<p align="center">
+  <img src="Screenshots/Screenshot_1602502774.png" width="40%" >
+</p>
 
 ### Upcoming features-
 
